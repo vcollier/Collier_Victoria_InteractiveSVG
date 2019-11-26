@@ -11,7 +11,7 @@ With the help of this interactive inforgraphic, individuals should be able to fu
 
 - Import the database attatched
 
-- Make sure MAMP or WAMP in running
+- Make sure MAMP or WAMP is running
 
 - npm start into the terminal
 
